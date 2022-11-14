@@ -1,1 +1,2 @@
 Hello, it's file1.txt
+Add string from remote repo
